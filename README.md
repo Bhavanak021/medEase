@@ -24,3 +24,8 @@ We can use this approach for not just for medicines but for all our daily needs 
 
 ### YouTube link:
 <a href="https://youtu.be/nf8uLVCNtX0">Idyllic-medEase</a>
+
+### Contributors
+Divya Kalash
+Bhavana Kumari
+Akansha Agarwal
