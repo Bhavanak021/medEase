@@ -27,6 +27,6 @@ We can use this approach for not just for medicines but for all our daily needs 
 
 ### Contributors
 
-Divya Kalash
-  Bhavana Kumari
+Divya Kalash |
+  Bhavana Kumari |
   Akansha Agarwal
